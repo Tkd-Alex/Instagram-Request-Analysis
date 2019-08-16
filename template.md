@@ -1,5 +1,5 @@
 # TITLE
-### Descriotion.....
+### Description.....
 
 ## Method name [POST/GET]
 ### Request

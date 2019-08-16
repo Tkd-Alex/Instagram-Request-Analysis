@@ -1,5 +1,5 @@
 # JUST-LOGGED-IN
-### All request do by Instagram application BEFORE **login method**.
+### All request do by Instagram application AFTER **login method**.
 
 ## Login
 ### Request [POST]
