@@ -1,7 +1,7 @@
 # TITLE
 ### Descriotion.....
 
-## Method name
+## Method name [POST/GET]
 ### Request
 ```
 ```

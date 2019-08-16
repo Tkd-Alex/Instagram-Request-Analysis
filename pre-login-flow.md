@@ -2,7 +2,7 @@
 ### All request do by Instagram application BEFORE **login method**.
 
 ## contact_point_prefill
-### Request
+### Request [POST]
 ```
 https://i.instagram.com/api/v1/accounts/contact_point_prefill/
 ```
@@ -55,7 +55,7 @@ curl -i -s -k  -X 'POST'
 ___
 
 ## read_msisdn_header
-### Request
+### Request [POST]
 ```
 https://i.instagram.com/api/v1/accounts/read_msisdn_header/
 ```
@@ -105,7 +105,7 @@ curl -i -s -k  -X 'POST'
 ```
 ___
 ## qe/sync
-### Request
+### Request [POST]
 ```
 https://i.instagram.com/api/v1/qe/sync/
 ```
@@ -155,7 +155,7 @@ curl -i -s -k  -X 'POST'
 ```
 ___
 ## launcher/sync
-### Request
+### Request [POST]
 ```
 https://i.instagram.com/api/v1/launcher/sync/
 ```
